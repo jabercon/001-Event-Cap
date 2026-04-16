@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# environment
+.env
+
+# node
+node_modules/
+dist/
+build/
+
+# expo / react native
+.expo/
+.expo-shared/
+
+# logs
+*.log
