@@ -2,16 +2,26 @@
 
 ## Goal
 
-Mobile app that allows a user to:
+Build a mobile app that lets a user take a photo, add text, and upload both to a backend for later review.
 
-- take a photo
-- add text/details
-- upload both to backend
-- store for later review
+## Current milestone
 
-## Main parts
+Get a minimal TypeScript backend running locally.
 
-- mobile app
-- backend API
-- database
-- image storage
+## Tech choices
+
+- Backend: Node.js + Express + TypeScript
+- Mobile: React Native with Expo (later)
+
+## Constraints
+
+- Keep the project tidy and easy to understand
+- Build in small, testable increments
+- Use AI as an assistant, not an uncontrolled coder
+
+## Next steps
+
+1. Fix TypeScript backend config
+2. Run local health endpoint
+3. Add JSON POST endpoint
+4. Add image upload
