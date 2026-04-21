@@ -21,7 +21,4 @@ Get a minimal TypeScript backend running locally.
 
 ## Next steps
 
-1. Fix TypeScript backend config
-2. Run local health endpoint
-3. Add JSON POST endpoint
-4. Add image upload
+1. Setup
